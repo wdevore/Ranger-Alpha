@@ -1,0 +1,53 @@
+{
+  "Engine": {
+    "Enabled": true,
+    "LoopFor": -1,
+    "ShowConfig": false,
+    "ShowGLInfo": true,
+    "ShowMonitorInfo": false,
+    "ShowTimingInfo": false,
+    "ShowJoystickInfo": false,
+    "GLMajorVersion": 3,
+    "GLMinorVersion": 3,
+    "FPSRefreshRate": 4.0
+  },
+  "Window": {
+    "BitsPerPixel": 32,
+    "LockToVSync": true,
+    "ClearColor": {
+      "A": 1,
+      "B": 0.5,
+      "G": 0.5,
+      "R": 0.5
+    },
+    "VirtualRes": {
+      "Height": 600,
+      "Width": 1000
+    },
+    "DeviceRes": {
+      "Height": 900,
+      "Width": 1500
+    },
+    "FullScreen": false,
+    "Orientation": "Landscape",
+    "Position": {
+      "X": 100,
+      "Y": 100
+    },
+    "Title": "Ranger Alpha"
+  },
+  "Camera": {
+    "Centered": true,
+    "View": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -1.0
+    }
+  },
+  "Font": {
+    "Path": "Ranger/Assets",
+    "Name": "geo.ttf",
+    "Size": 48,
+    "CharsFromSet": 128
+  }
+}
